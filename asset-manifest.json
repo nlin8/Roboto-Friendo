@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Roboto-Friendo/static/css/main.c2554772.chunk.css",
+    "main.js": "/Roboto-Friendo/static/js/main.e1e61ba0.chunk.js",
+    "main.js.map": "/Roboto-Friendo/static/js/main.e1e61ba0.chunk.js.map",
+    "runtime-main.js": "/Roboto-Friendo/static/js/runtime-main.3e0af70b.js",
+    "runtime-main.js.map": "/Roboto-Friendo/static/js/runtime-main.3e0af70b.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Roboto-Friendo/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dbe75954.chunk.js": "/Roboto-Friendo/static/js/2.dbe75954.chunk.js",
+    "static/js/2.dbe75954.chunk.js.map": "/Roboto-Friendo/static/js/2.dbe75954.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/Roboto-Friendo/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/Roboto-Friendo/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/Roboto-Friendo/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Roboto-Friendo/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.c2554772.chunk.css.map": "/Roboto-Friendo/static/css/main.c2554772.chunk.css.map",
+    "static/js/2.dbe75954.chunk.js.LICENSE.txt": "/Roboto-Friendo/static/js/2.dbe75954.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Roboto-Friendo/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e0af70b.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dbe75954.chunk.js",
+    "static/css/main.c2554772.chunk.css",
+    "static/js/main.e1e61ba0.chunk.js"
+  ]
+}
